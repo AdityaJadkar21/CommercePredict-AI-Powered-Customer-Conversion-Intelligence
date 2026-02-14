@@ -1,4 +1,4 @@
-# CommercePredict - AI Powered Customer Conversion Intelligence
+# CommercePredict 
 Developed a Decision Tree classifier to predict e-commerce purchase intent using 12K+ user session data.
 
 Applied EDA, feature preprocessing, class imbalance handling, and tree pruning, optimizing performance with F1-score.
